@@ -37,7 +37,7 @@ apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
 group = "com.qihoo.library"
-version = "1.0.4"
+version = "1.0.5"
 def projectName = 'DroidPatch'
 
 def siteUrl = 'https://github.com/zy3274311/DroidPatch'

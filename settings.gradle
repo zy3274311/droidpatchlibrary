@@ -1,1 +1,1 @@
-include ':app', ':patchlibrary'
+include ':patchlibrary'
