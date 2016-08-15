@@ -40,8 +40,8 @@ group = "com.qihoo.library"
 version = "1.0.5"
 def projectName = 'DroidPatch'
 
-def siteUrl = 'https://github.com/zy3274311/DroidPatch'
-def gitUrl = 'https://github.com/zy3274311/DroidPatch'
+def siteUrl = 'https://github.com/zy3274311'
+def gitUrl = 'https://github.com/zy3274311/droidpatchlibrary'
 
 install {
     repositories.mavenInstaller {
